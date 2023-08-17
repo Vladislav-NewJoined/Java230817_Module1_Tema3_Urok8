@@ -1,4 +1,3 @@
-//        Пример _ ППППППППППППППППППППППППППППППППППП  //  С балалайкой. РАБОТАЕТ, МОЖНО ОТПРАВЛЯТЬ
 public class Task1_3_8_1 {
     public static void main(String[] args) {
         System.out.println("""
@@ -64,4 +63,3 @@ public class Task1_3_8_1 {
 class MaxValue {
     double price;
 }
-//        Конец Примера _ КККККККККККККККК
