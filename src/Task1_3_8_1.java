@@ -61,5 +61,4 @@ public class Task1_3_8_1 {
 }
 
 class MaxValue {
-    double price;
 }
